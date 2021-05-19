@@ -89,7 +89,9 @@ Project Link: [https://github.com/artificialbutter/betterPiP](https://github.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Installation Instructions - iamadamdev](https://github.com/iamadamdev/bypass-paywalls-chrome)
+* [Installation Instructions](https://github.com/iamadamdev/bypass-paywalls-chrome)
+* [Demonstration of the Picture-in-Picture Web API](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension)
+* [Tutorial For Firefox Port](https://blog.chosunghyun.com/porting-a-chrome-extension-to-firefox-add-on/)
 
 
 
