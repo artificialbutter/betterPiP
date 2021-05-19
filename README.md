@@ -58,7 +58,12 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Supported Sites
 
-SOON
+<ul>
+  <li>YouTube</li>
+  <li>Twitch</li>
+  <li>Newgrounds</li>
+  <li>Most Other HTML Sites</li>
+</ul>
 
 
 <!-- LICENSE -->
@@ -80,8 +85,6 @@ Project Link: [https://github.com/artificialbutter/betterPiP](https://github.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
 * []()
 
 
