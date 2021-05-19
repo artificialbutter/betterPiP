@@ -8,11 +8,11 @@
   <h3 align="center">Better Picture In Picture</h3>
 
   <p align="center">
-    A better Picture in Picture for Google Chrome
+    A better Picture in Picture Extension for Google Chrome
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/artificialbutter/betterPiP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/artificialbutter/betterPiP/issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,17 +41,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -67,9 +56,9 @@ To get a local copy up and running follow these simple steps.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Supported Sites
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+SOON
 
 
 <!-- LICENSE -->
@@ -82,9 +71,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@artificialbuttr](https://twitter.com/artificialbuttr) - gamer@linus360.ca
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/artificialbutter/betterPiP](https://github.com/artificialbutter/betterPiP)
 
 
 
@@ -101,11 +90,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/artificialbutter/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/artificialbutter/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/artificialbutter/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/artificialbutter/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/artificialbutter/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/artificialbutter/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/artificialbutter/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/artificialbutter/repo/issues
