@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. SOON
+1. Download the latest <a href="https://github.com/artificialbutter/betterPiP/releases">release</a>
 
 
 
