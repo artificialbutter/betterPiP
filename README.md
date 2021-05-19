@@ -51,8 +51,12 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
+# Google Chrome / Microsoft Edge
 1. Download the latest <a href="https://github.com/artificialbutter/betterPiP/releases">release</a>
-
+2. Unzip the file into a folder.
+3. In Chrome/Edge go to the extensions page (chrome://extensions or edge://extensions).
+4. Enable Developer Mode.
+5. Drag the folder you made anywhere on the page to import it (do not delete the folder afterwards).
 
 
 <!-- USAGE EXAMPLES -->
@@ -85,7 +89,7 @@ Project Link: [https://github.com/artificialbutter/betterPiP](https://github.com
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [Installation Instructions - iamadamdev](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
 
 
