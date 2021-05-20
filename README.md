@@ -58,6 +58,8 @@ To get a local copy up and running follow these simple steps.
 4. Enable Developer Mode.
 5. Drag the folder you made anywhere on the page to import it (do not delete the folder afterwards).
 
+# Firefox
+1. Firefox Has PiP Built In
 
 <!-- USAGE EXAMPLES -->
 ## Supported Sites
