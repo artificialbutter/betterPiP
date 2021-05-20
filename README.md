@@ -39,8 +39,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is just a simple PiP extension with no tracking whatsoever. 
-[![Screenshot]](https://github.com/artificialbutter/betterPiP/raw/main/images/screenshot.png)
+This is just a simple PiP extension with no tracking whatsoever.
+
+![Screenshot](https://github.com/artificialbutter/betterPiP/raw/main/images/screenshot.png)
 
 
 <!-- GETTING STARTED -->
