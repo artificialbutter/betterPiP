@@ -40,7 +40,7 @@
 ## About The Project
 
 This is just a simple PiP extension with no tracking whatsoever. 
-[![a][screenshot.png]]()
+[![Screenshot]](https://github.com/artificialbutter/betterPiP/raw/main/images/screenshot.png)
 
 
 <!-- GETTING STARTED -->
