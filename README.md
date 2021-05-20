@@ -47,7 +47,10 @@ This is just a simple PiP extension with no tracking whatsoever.
 <!-- GETTING STARTED -->
 ## Installation
 
-#### Google Chrome / Microsoft Edge (Store Link Soon)
+#### Google Chrome / Microsoft Edge 
+
+Get it from the <a href="https://chrome.google.com/webstore/detail/better-pip/nnpikangkapplbfgeniaapbmifpkfomn">Chrome Store</a>
+
 1. Download the latest <a href="https://github.com/artificialbutter/betterPiP/releases">release</a>
 2. Unzip the file into a folder.
 3. In Chrome/Edge go to the extensions page (chrome://extensions or edge://extensions).
