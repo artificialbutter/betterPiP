@@ -50,15 +50,14 @@ This is just a simple PiP extension with no tracking whatsoever.
 #### Google Chrome / Microsoft Edge 
 
 Get it from the <a href="https://chrome.google.com/webstore/detail/better-pip/nnpikangkapplbfgeniaapbmifpkfomn">Chrome Store</a>
+Or the <a href="imlkihoiccfcfmgmedhmcemjhohonjin">Edge Store</a>
 
+#### Manual Installation
 1. Download the latest <a href="https://github.com/artificialbutter/betterPiP/releases">release</a>
 2. Unzip the file into a folder.
 3. In Chrome/Edge go to the extensions page (chrome://extensions or edge://extensions).
 4. Enable Developer Mode.
 5. Drag the folder you made anywhere on the page to import it (do not delete the folder afterwards).
-
-#### Firefox
-1. Firefox Has PiP Built In
 
 <!-- USAGE EXAMPLES -->
 ## Supported Sites
