@@ -80,7 +80,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@artificialbuttr](https://twitter.com/artificialbuttr) - gamer@linus360.ca
+ArtificialButter - [@artificialbuttr](https://twitter.com/artificialbuttr) - gamer@linus360.ca
 
 Project Link: [https://github.com/artificialbutter/betterPiP](https://github.com/artificialbutter/betterPiP)
 
